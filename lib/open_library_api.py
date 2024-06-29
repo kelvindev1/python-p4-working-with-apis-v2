@@ -49,6 +49,7 @@ class Search:
 # print(results)
 
 # results_json = Search().get_search_results_json()
+# json.dumps formats the JSON object in a human readable format
 # print(json.dumps(results_json, indent=1))
 
 search_term = input("Enter a book title: ")
